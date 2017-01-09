@@ -1,0 +1,16 @@
+body {
+    margin:20px;
+    font-size: 150%;
+    font-family: 'Lobster Two', cursive;
+    color:white;
+    background-image:url("http://userscontent2.emaze.com/images/815d1334-46d6-45f5-8cb0-f93f201dabb5/af39b50b-57a1-4f3f-9bdd-2e461dbd779e.jpg");
+}
+#buttons-content{
+    color:black;
+    margin:20px;
+
+}
+.all-content {
+    padding: 10px;
+    
+}
